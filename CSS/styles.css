@@ -1,0 +1,39 @@
+/*********************************Tag Selector*******************************/
+body {
+  background-color: wheat;
+}
+
+h1{
+  color: maroon;
+}
+
+h3:hover {
+  color: red;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: maroon;
+  border-width: 5px;
+  width: 7%;
+}
+
+img {
+  height: 300px;
+}
+
+/*********************************Class Selector*******************************/
+.circular {
+  border-radius: 100%;
+}
+
+/*.emoji {
+  height: 30px
+}*/
+
+
+/*********************************Id Selector*******************************/
+/*#heading {
+  color: red;
+}*/
